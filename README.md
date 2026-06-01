@@ -1,2 +1,3 @@
 # Hybrid-3D-Reconstruction-from-2D-image-Classical-3DGS-2DGS-
 In this work we developed 3D reconstruction from 2D images with improved texture and relighted 3d Models. 
+To implement this project You already need to run your 3d recontruction from 2D image in COLMAP. So that you can use the same gerometry as ground truth but with better texture and relighted 3D model.
