@@ -6,3 +6,7 @@ The 3DGS will develop the texture of the 3D model as blob.
 The 2DGS will develop the texture of the 3D model as Elipsoids. 
 
 We have uploaded our Splat/ ply/ Sparse file extracted from our dataset as demo for your imeplementation reference. 
+
+
+[![Demo Video](https://www.youtube.com/watch?v=1oUjT_EHo9k)
+
