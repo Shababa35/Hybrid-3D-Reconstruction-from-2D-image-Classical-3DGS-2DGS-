@@ -10,3 +10,5 @@ We have uploaded our Splat/ ply/ Sparse file extracted from our dataset as demo 
 Final Demo: 
 ![Demo](demo.gif)
 
+Our pipeline:
+![Demo](Pipeline.jpeg)
