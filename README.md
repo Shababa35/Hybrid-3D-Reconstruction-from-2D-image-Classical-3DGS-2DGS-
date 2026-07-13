@@ -16,3 +16,7 @@ Our pipeline:
 3DGS Results:
 
 ![Demo](3DGS_RESULTS.png)
+
+2DGS Results:
+
+![Demo](2DGS_Results.png)
