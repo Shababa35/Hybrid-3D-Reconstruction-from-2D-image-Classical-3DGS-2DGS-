@@ -13,3 +13,6 @@ Final Demo on Splat Editor:
 Our pipeline:
 ![Demo](Pipeline.jpeg)
 
+3DGS Results:
+
+![Demo](3DGS_RESULTS.png)
