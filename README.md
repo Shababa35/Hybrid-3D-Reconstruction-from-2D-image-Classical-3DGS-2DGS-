@@ -7,6 +7,6 @@ The 2DGS will develop the texture of the 3D model as Elipsoids.
 
 We have uploaded our Splat/ ply/ Sparse file extracted from our dataset as demo for your imeplementation reference. 
 
-
+Final Demo: 
 ![Demo](demo.gif)
 
