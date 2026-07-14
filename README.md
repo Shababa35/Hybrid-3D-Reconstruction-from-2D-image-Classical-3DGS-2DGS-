@@ -20,3 +20,7 @@ Our pipeline:
 2DGS Results:
 
 ![Demo](2DGS_Results.png)
+
+Qualitative Analysis
+
+![Demo](Visual Analysis.png)
