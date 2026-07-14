@@ -23,6 +23,6 @@ Our pipeline:
 
 Qualitative Analysis
 
-![Demo](Visual Analysis.png)
+![Demo](Visual_Analysis.png)
 
 ![Demo](Quantitative_Analysis.png)
