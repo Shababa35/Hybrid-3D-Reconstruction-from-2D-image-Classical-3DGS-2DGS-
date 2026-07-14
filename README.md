@@ -25,4 +25,9 @@ Qualitative Analysis
 
 ![Demo](Visual_Analysis.png)
 
+Quantitative Analysis
 ![Demo](Quantitative_Analysis.png)
+
+![Demo](Graph_results_Quant.png)
+
+
