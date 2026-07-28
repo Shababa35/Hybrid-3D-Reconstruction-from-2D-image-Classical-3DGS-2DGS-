@@ -1,5 +1,4 @@
 # Hybrid-3D-Reconstruction-from-2D-image-Classical-3DGS-2DGS-
-## 📄 Paper
 
 📥 [Read the Paper](./Hybrid%203D%20Reconstruction_%20Combining%20Classical%20and%20Learning-Based%20Approaches.pdf)
 
