@@ -1,8 +1,6 @@
 # Hybrid-3D-Reconstruction-from-2D-image-Classical-3DGS-2DGS-
 ## 📄 Paper
 
-**Hybrid 3D Reconstruction: Combining Classical and Learning-Based Approaches**
-
 📥 [Read the Paper](./Hybrid%203D%20Reconstruction_%20Combining%20Classical%20and%20Learning-Based%20Approaches.pdf)
 
 In this work we developed 3D reconstruction from 2D images with improved texture and relighted 3d Models. 
